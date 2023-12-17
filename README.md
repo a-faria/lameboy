@@ -26,4 +26,4 @@ gif:
 Next Features wishlist: <be>
 * build a proper case (preferably with a less lame design)<br>
 * score count and display<br>
-* different graphics for the snake and food
+* improved graphics for the snake and food
