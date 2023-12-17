@@ -12,10 +12,13 @@ by using a circuit with an OLED Screen and a Raspberry Pi Pico H <br>
 Prototype:
 
  ![image](https://github.com/a-faria/lameboy/assets/122120022/4ae47e8c-6fee-410d-8ab5-e36f03c1f314)
-* The design is purposedly crude and lame, to not risk being sued by "you know who".
+P.s: The case design is purposedly crude and lame, to not risk being sued by "you know who".
+game running:
+![image](https://github.com/a-faria/lameboy/assets/122120022/2fea7941-7eaf-476c-83e2-176710f5fb16)
 
 
 
-Features to implement later: <br>
--score count and display<br>
--different graphics for the snake and food
+Next Features wishlist: <be>
+* build a proper case (preferably with a less lame design)<br>
+* score count and display<br>
+* different graphics for the snake and food
