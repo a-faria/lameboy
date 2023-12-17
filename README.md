@@ -19,7 +19,9 @@ game running:
 
 ![image](https://github.com/a-faria/lameboy/assets/122120022/2fea7941-7eaf-476c-83e2-176710f5fb16)
 
+gif:
 
+![gif_snake2](https://github.com/a-faria/lameboy/assets/122120022/0bc5bfb0-e0e5-4353-b35a-0f901e89b50d)
 
 Next Features wishlist: <be>
 * build a proper case (preferably with a less lame design)<br>
