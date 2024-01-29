@@ -14,6 +14,7 @@ case prototype:
  ![image](https://github.com/a-faria/lameboy/assets/122120022/4ae47e8c-6fee-410d-8ab5-e36f03c1f314)
  
 P.s: The case design is purposedly crude and lame, to not risk being sued by "you know who".
+(completely unrelated to the fact that it's just a piece of cardboard)
 
 game running:
 
